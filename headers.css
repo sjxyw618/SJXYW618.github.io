@@ -159,13 +159,15 @@ a:hover{
 .c6927{
   font-weight:600;
   font-family:"Microsoft Yahei", sans-serif;
-  color:#ffffff;
+  color:#fffefe;
   padding:10px;
   background-repeat:repeat-x;
   background-position:right center;
   background-attachment:scroll;
   background-size:auto;
   border-color:#030000;
+  background-image:url('https://static.htmlpage.cn/editor/images/assets/bg6.jpg');
+  float:none;
 }
 .c1450{
   font-family:"PingFang SC", sans-serif;
